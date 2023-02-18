@@ -3,7 +3,7 @@ package coche;
 
 /**
  *
- * @author Fran
+ * @author Clara
  */
 public class Coche {
 
